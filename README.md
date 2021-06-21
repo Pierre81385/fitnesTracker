@@ -20,3 +20,5 @@ stats page, and show progess over time.
 
 The app may be accessed here: https://lit-everglades-43357.herokuapp.com/
 The repo is located here: https://github.com/Pierre81385/fitnesTracker
+
+A screenshot of this app is availible in the "assets" folder.
